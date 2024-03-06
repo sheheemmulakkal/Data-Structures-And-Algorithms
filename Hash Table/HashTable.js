@@ -47,6 +47,8 @@ class HashTable {
 const ht = new HashTable(10);
 
 ht.set("name", "sheheem");
+ht.set("place", "Malappuram");
+ht.set("name", "Sajad");
 ht.set("mane", "Afrid");
 ht.set("age", 22);
 ht.print();
